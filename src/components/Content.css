@@ -1,0 +1,10 @@
+.content {
+  grid-area: main;
+  border: 1px solid black;
+  grid-row: 2/3;
+  grid-column: 2/3;
+}
+.itemlist{
+  overflow: auto;
+  height: 56vh;
+}
